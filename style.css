@@ -1,0 +1,41 @@
+
+body {
+    background-color: azure;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    margin-bottom: 35px;
+    border-bottom: 2px solid gray;
+}
+
+h1, h2, h3 {
+    color: brown;
+}
+
+.ul_header {
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    font-weight: bold;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: none;
+    color:crimson;
+}
+
+.img_container {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border: 2px solid crimson;
+}
